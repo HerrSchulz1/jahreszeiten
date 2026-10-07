@@ -1,0 +1,85 @@
+{
+ "source": "Deutscher Wetterdienst (DWD), Climate Data Center: Rasterdaten Lufttemperatur, vieljaehrige Mittel 1991-2020, 1 km (grids_germany/multi_annual/air_temperature_mean)",
+ "lonMin": 5.55,
+ "lonMax": 15.36,
+ "latMax": 55.15,
+ "latMin": 47.15,
+ "w": 327,
+ "h": 400,
+ "encScale": 8.0,
+ "encOffset": -10.5,
+ "seasons": [
+  "spring",
+  "summer",
+  "autumn",
+  "winter"
+ ],
+ "germanyMean": {
+  "spring": 8.9,
+  "summer": 17.6,
+  "autumn": 9.3,
+  "winter": 1.4
+ },
+ "min": {
+  "spring": -5.1,
+  "summer": 3.6,
+  "autumn": -2.1,
+  "winter": -9.6
+ },
+ "max": {
+  "spring": 11.6,
+  "summer": 20.2,
+  "autumn": 12.0,
+  "winter": 4.4
+ },
+ "places": {
+  "Halberstadt (Dom)": {
+   "spring": 9.3,
+   "summer": 18.0,
+   "autumn": 9.9,
+   "winter": 1.9
+  },
+  "Brocken": {
+   "spring": 3.5,
+   "summer": 12.0,
+   "autumn": 5.0,
+   "winter": -2.5
+  },
+  "Berlin": {
+   "spring": 10.2,
+   "summer": 19.4,
+   "autumn": 10.4,
+   "winter": 2.0
+  },
+  "Hamburg": {
+   "spring": 9.3,
+   "summer": 17.8,
+   "autumn": 10.2,
+   "winter": 2.7
+  },
+  "Muenchen": {
+   "spring": 9.8,
+   "summer": 18.7,
+   "autumn": 9.6,
+   "winter": 1.2
+  },
+  "Koeln": {
+   "spring": 11.2,
+   "summer": 19.2,
+   "autumn": 11.5,
+   "winter": 4.2
+  },
+  "Freiburg": {
+   "spring": 11.3,
+   "summer": 19.9,
+   "autumn": 11.2,
+   "winter": 3.4
+  },
+  "Zugspitze": {
+   "spring": -3.6,
+   "summer": 5.2,
+   "autumn": -0.9,
+   "winter": -8.6
+  }
+ }
+}
